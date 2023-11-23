@@ -53,6 +53,6 @@ foxie commit
 
 ## Authors
 
-* **Your Name** - *Initial work* - [YourGitHubProfile](https://github.com/BerkePalamutcu)
+*  [Berke Palamutcu](https://github.com/BerkePalamutcu)
 
 
